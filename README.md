@@ -51,6 +51,6 @@ This project enhances recommendations by adding **mood detection** from:
 
 ## 👩‍💻 Author
 - **Jainam Shah** (Master’s Student, aspiring Data Scienctist)  
-- Connect with me on [LinkedIn](www.linkedin.com/in/jainamshah41)  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jainamshah41)  
 
 ---
