@@ -4,7 +4,7 @@
 ---
 
 ### 🎯 Task & Goals
-- Predict mood/emotion of a song using **lyrics only**, or **lyrics + audio**.  
+- Predict mood/emotion of a song using **lyrics only**, or **lyrics + audio**.
 - Mood can be modeled as:
   - **Continuous values**: valence (positive ↔ negative), arousal (calm ↔ energetic).  
   - **Discrete categories**: happy, sad, angry, relaxed, etc.  
