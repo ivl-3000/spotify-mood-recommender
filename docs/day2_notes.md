@@ -1,5 +1,5 @@
 # Day 2 – Research Notes  
-## Paper: The Million Playlist Dataset Challenge (RecSys 2018)
+## Paper: The Spotify Million Playlist Dataset Challenge
 
 ---
 
