@@ -61,4 +61,4 @@
 
 ---
 
-📌 *These insights guide the Mood & Context-Aware Playlist Recommender (Spotify Internship 2026 project).*  
+📌 *These insights guide the Mood & Context-Aware Playlist Recommender.*  
