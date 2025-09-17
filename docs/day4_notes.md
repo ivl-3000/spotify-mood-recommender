@@ -51,4 +51,4 @@
 
 ---
 
-📌 *These insights confirm that a hybrid approach is essential for the Spotify Mood & Context-Aware Playlist Recommender (Internship 2026 project).*  
+📌 *These insights confirm that a hybrid approach is essential for the Spotify Mood & Context-Aware Playlist Recommender.*  
