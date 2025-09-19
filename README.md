@@ -1,56 +1,73 @@
-# Spotify – Mood & Context-Aware Playlist Recommender (Project)
+# 🎵 Spotify – Mood & Context-Aware Playlist Recommender
 
-## 🎯 Project Overview
-This is a **6-month Data Science Project Showcase** focused on building a  
-**Mood & Context-Aware Playlist Recommender System** for Spotify.  
-
-The project combines **NLP, Machine Learning, LLMs, SQL, and Power BI** to recommend playlists  
-based on **lyrics, social media sentiment, and user context**.
+🚀 **Fresher Data Science Showcase Project**  
+📅 Duration: 6 months (~180 days)  
+👩‍💻 Role: Data Science (Self-Learning Project)  
 
 ---
 
-## 🚀 Why This Project?
-Music is deeply connected to emotions and context.  
-Traditional recommenders use collaborative filtering (user-item interactions).  
-This project enhances recommendations by adding **mood detection** from:
-- Song lyrics 🎵  
-- Social media posts 💬  
-- User context (time, mood, activity) ⏰  
+## 📌 Project Overview
+This project simulates the work of a **Spotify Data Science Intern (2026)**.  
+The goal is to build a **mood & context-aware playlist recommender system** using:
+- Spotify playlists
+- Lyrics data
+- Social media mood signals (Twitter, Reddit)
+
+The recommender will combine **NLP-based mood detection** with **hybrid recommendation algorithms** (collaborative + content-based filtering).  
+
+By the end of the project:
+- ✅ A working recommender system  
+- ✅ NLP mood detection models  
+- ✅ Power BI dashboard  
+- ✅ Deployed API (Flask/FastAPI)  
+- ✅ GitHub documentation + LinkedIn project posts  
 
 ---
 
-## 🛠️ Skills Highlighted
-- **NLP & LLMs:** Mood detection using BERT/LLMs from lyrics & social data.  
-- **Machine Learning:** Hybrid recommender (collaborative + content-based + mood-aware).  
-- **SQL & Data Engineering:** Building ETL pipelines for Spotify, lyrics & social data.  
-- **Visualization:** Power BI dashboard (genre trends, mood shifts, personalization).  
-- **Deployment:** Flask/FastAPI + AWS/GCP deployment of recommender API.  
+## 🎯 Objectives
+1. **Collect Data** – Playlists, lyrics, social media sentiment.  
+2. **Detect Mood** – NLP models (BERT, RoBERTa, sentiment analysis).  
+3. **Build Recommender** – Hybrid system (collaborative + content + mood-aware).  
+4. **Visualize Trends** – Power BI dashboard.  
+5. **Deploy** – Flask/FastAPI + Docker/AWS.  
 
 ---
 
-## 📂 Project Roadmap (180 Days)
-- **Phase 1:** Literature Review & Setup (Day 1–12)  
-- **Phase 2:** Data Collection Pipeline (Day 13–36)  
-- **Phase 3:** Data Exploration & Preprocessing (Day 37–60)  
-- **Phase 4:** NLP + Mood Detection Models (Day 61–90)  
-- **Phase 5:** Recommender System (Day 91–130)  
-- **Phase 6:** Dashboard (Day 131–150)  
-- **Phase 7:** Deployment & Docs (Day 151–170)  
-- **Phase 8:** Final Showcase (Day 171–180)  
+## 📂 Project Timeline (180 Days)
+- **Phase 1 (Day 1–12):** Literature review, setup, APIs, schema design  
+- **Phase 2 (Day 13–36):** Data collection & pipeline (Spotify, Genius, Reddit, Twitter)  
+- **Phase 3 (Day 37–60):** EDA & preprocessing  
+- **Phase 4 (Day 61–90):** NLP mood detection models  
+- **Phase 5 (Day 91–130):** Recommender system (hybrid)  
+- **Phase 6 (Day 131–150):** Power BI dashboard  
+- **Phase 7 (Day 151–170):** Deployment & docs  
+- **Phase 8 (Day 171–180):** Final showcase  
 
 ---
 
-## 📊 Final Deliverables
-- Hybrid recommender system 🎧  
-- Mood detection model (lyrics + social data) 🤖  
-- Power BI dashboard 📈  
-- Deployed API 🌍  
-- GitHub repo with full code & documentation 💻  
+## 🛠️ Tech Stack
+- **Languages:** Python (pandas, numpy, sklearn, transformers)  
+- **APIs:** Spotify API (Spotipy), Genius API, Reddit API, Twitter API  
+- **Databases:** PostgreSQL / BigQuery  
+- **ML Models:** DistilBERT, RoBERTa, Hybrid Recommender  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Deployment:** Flask/FastAPI, Docker, AWS/GCP  
 
 ---
 
-## 👩‍💻 Author
-- **Jainam Shah** (Master’s Student, aspiring Data Scienctist)  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/jainamshah41)  
+## 📖 Inspiration
+This project is inspired by:
+- [The Million Playlist Dataset Challenge (Spotify Research)](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)  
+- Research in **mood detection using lyrics & social media**  
+- Hybrid recommendation systems  
 
 ---
+
+## 📌 Author
+👤 **Your Name**  
+📍 Data Science Fresher | Spotify Internship Project (Self-Simulated, 2026)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/jainamshah41)  
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
